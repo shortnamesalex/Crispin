@@ -1,1 +1,1 @@
-send help
+this is a resource pack.
