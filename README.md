@@ -22,8 +22,11 @@ Other shaders recommended:
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
 Capt Tatsu's BSL Shaders
+
 Sildur's Vibrant Shaders
+
 RRe36's Nostalgia Shader
+
 RRe36's VPlus Shader
 
 (go and support rutherin on patreon, she deserves all the support she has.)
