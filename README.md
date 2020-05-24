@@ -7,19 +7,19 @@ Anyways, the website you are seeing here is home to my 2nd ever resource pack, C
 
 She is a gifted shader developer, a texture artist, a modeler, a cutie, an expertise in her field that constantly proves me wrong cause I don't even have the bare minimum knowledge of OpenGL, or anything really, and an awesome, loveable person.
 
-**Features:
+**Features:**
 
 Hand-drawn textures made by my hands.
 labPBR support (specular maps, normal maps and emissive maps).
 Custom music disc music. (all of them are not copyrighted btw)
 
-**Shader recommended:
+**Shader recommended:**
 
 Rutherin's Raspberry Shaders
 
 (go and support rutherin on patreon, she deserves all the support she has.)
 
-**Other shaders recommended:
+**Other shaders recommended:**
 
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
@@ -28,7 +28,7 @@ Sildur's Vibrant Shaders
 RRe36's Nostalgia Shader
 RRe36's VPlus Shader
 
-**Thanks:
+**Thanks:**
 
 Paint.net was used to make this pack.
 Normal maps were generated through Bounding Box Software's Materalize tool.
