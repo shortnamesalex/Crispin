@@ -24,14 +24,19 @@ Rutherin's Raspberry Shaders
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
 Capt Tatsu's BSL Shaders
+
 Sildur's Vibrant Shaders
+
 RRe36's Nostalgia Shader
+
 RRe36's VPlus Shader
 
 **Thanks:**
 
 Paint.net was used to make this pack.
+
 Normal maps were generated through Bounding Box Software's Materalize tool.
+
 Custom music discs:
 Downtown Binary - Midnight Tokyo used on music disc Mall.
 C418 - Beton used on music disc Blocks.
