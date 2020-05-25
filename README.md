@@ -1,23 +1,30 @@
 ![96IiZXM](https://user-images.githubusercontent.com/63942150/82401664-94bd0e80-9a84-11ea-8013-8c85a17135a0.png)
 
+**DO NOT REDISTRIBUTE THIS PACK WITHOUT MY PERMISSION.**
 
-Hi there. My name's Alex Nguyen. Or you can call me shortnamesalex, a name that I've used across a bajillion different social media accounts.
+Hi. shortnamesalex here.
 
-Anyways, the website you are seeing here is home to my 2nd ever resource pack, Crispin. It was born on 4/18/2020, a day after my friends birthday, Rutherin. If you don't know who she is, I'll give you a summary.
+The website you are seeing here is home to my 2nd ever resource pack, Crispin. It was born on 4/18/2020, a day after my friends birthday, Rutherin. If you don't know who she is, I'll give you a summary.
 
 She is a gifted shader developer, a texture artist, a modeler, a cutie, an expertise in her field that constantly proves me wrong cause I don't even have the bare minimum knowledge of OpenGL, or anything really, and an awesome, loveable person.
 
-Features:
+Crispin was made with a couple of ideas in mind, a resource pack made to look good with Raspberry 
+
+**Features:**
 
 Hand-drawn textures made by my hands.
+
 labPBR support (specular maps, normal maps and emissive maps).
+
 Custom music disc music. (all of them are not copyrighted btw)
 
-Shader recommended:
+**Shader recommended:**
 
 Rutherin's Raspberry Shaders
 
-Other shaders recommended:
+(go and support rutherin on patreon, she deserves all the support she has.)
+
+**Other shaders recommended:**
 
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
@@ -29,20 +36,22 @@ RRe36's Nostalgia Shader
 
 RRe36's VPlus Shader
 
-(go and support rutherin on patreon, she deserves all the support she has.)
-
-Thanks:
+**Thanks:**
 
 Paint.net was used to make this pack.
+
 Normal maps were generated through Bounding Box Software's Materalize tool.
+
 Custom music discs:
-Downtown Binary - Midnight Tokyo used on music disc Mall.
-C418 - Beton used on music disc Blocks.
+
+- Downtown Binary - Midnight Tokyo used on music disc Mall.
+
+- C418 - Beton used on music disc Blocks.
 
 Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spirit and Chloe in Barazoku for giving me the energy and confidence to keep working on this pack.
 
 This pack wouldn't have been where it is now without all of you~
 
-- alex
+![2020-05-23_19 41 54](https://user-images.githubusercontent.com/63942150/82746187-2e532b80-9db7-11ea-94b4-c3c131fb2eea.png)
 
-DO NOT REDISTRIBUTE THIS PACK WITHOUT MY PERMISSION.
+
