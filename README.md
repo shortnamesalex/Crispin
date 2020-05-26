@@ -52,8 +52,12 @@ Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spir
 
 This pack wouldn't have been where it is now without all of you~
 
+**Some screenshots to hopefully set off a good impression:**
 ![2020-05-23_19 41 54](https://user-images.githubusercontent.com/63942150/82746187-2e532b80-9db7-11ea-94b4-c3c131fb2eea.png)
 ![2020-05-23_22 17 29](https://user-images.githubusercontent.com/63942150/82862149-23c89b80-9f49-11ea-94a3-918e090ce8ad.png)
 ![2020-05-23_21 43 50](https://user-images.githubusercontent.com/63942150/82862197-435fc400-9f49-11ea-84f5-8cae93c0c12d.png)
+![2020-05-23_21 01 32](https://user-images.githubusercontent.com/63942150/82862582-3abbbd80-9f4a-11ea-8748-53b250c6efc4.png)
+![2020-05-23_20 53 34](https://user-images.githubusercontent.com/63942150/82862592-43ac8f00-9f4a-11ea-8b11-5d6d15a01cd4.png)
+![2020-05-23_19 30 11](https://user-images.githubusercontent.com/63942150/82862597-45765280-9f4a-11ea-8594-263b35282aba.png)
 
 
