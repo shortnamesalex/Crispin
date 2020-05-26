@@ -8,19 +8,19 @@ The website you are seeing here is home to my 2nd ever resource pack, Crispin. I
 
 She is a gifted shader developer, a texture artist, a modeler, a cutie, an expertise in her field that constantly proves me wrong cause I don't even have the bare minimum knowledge of OpenGL, or anything really, and an awesome, loveable person.
 
-Crispin was made with a couple of ideas in mind, a resource pack made to look good with Raspberry 
+Crispin was made with a couple of ideas in mind, a resource pack made to look good with Raspberry, one thats bright and simplistic, takes advantage of as many of Optifine's features as possible (custom loading scenes, ctm's, emissive textures, animated textures, etc...) and also takes advantage of shader support (speculars, normals, etc...)    
 
 **Features:**
 
-Hand-drawn textures made by my hands.
+- Hand-drawn textures made by my hands.
 
-labPBR support (specular maps, normal maps and emissive maps).
+- labPBR support (specular maps, normal maps and emissive maps).
 
-Custom music disc music. (all of them are not copyrighted btw)
+- Custom music disc music. (all of them are not copyrighted btw)
 
 **Shader recommended:**
 
-Rutherin's Raspberry Shaders
+- Rutherin's Raspberry Shaders
 
 (go and support rutherin on patreon, she deserves all the support she has.)
 
@@ -28,13 +28,13 @@ Rutherin's Raspberry Shaders
 
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
-Capt Tatsu's BSL Shaders
+- Capt Tatsu's BSL Shaders
 
-Sildur's Vibrant Shaders
+- Sildur's Vibrant Shaders
 
-RRe36's Nostalgia Shader
+- RRe36's Nostalgia Shader
 
-RRe36's VPlus Shader
+- RRe36's VPlus Shader
 
 **Thanks:**
 
@@ -52,6 +52,12 @@ Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spir
 
 This pack wouldn't have been where it is now without all of you~
 
+**Some screenshots to hopefully set off a good impression:**
 ![2020-05-23_19 41 54](https://user-images.githubusercontent.com/63942150/82746187-2e532b80-9db7-11ea-94b4-c3c131fb2eea.png)
+![2020-05-23_22 17 29](https://user-images.githubusercontent.com/63942150/82862149-23c89b80-9f49-11ea-94a3-918e090ce8ad.png)
+![2020-05-23_21 43 50](https://user-images.githubusercontent.com/63942150/82862197-435fc400-9f49-11ea-84f5-8cae93c0c12d.png)
+![2020-05-23_21 01 32](https://user-images.githubusercontent.com/63942150/82862582-3abbbd80-9f4a-11ea-8748-53b250c6efc4.png)
+![2020-05-23_20 53 34](https://user-images.githubusercontent.com/63942150/82862592-43ac8f00-9f4a-11ea-8b11-5d6d15a01cd4.png)
+![2020-05-23_19 30 11](https://user-images.githubusercontent.com/63942150/82862597-45765280-9f4a-11ea-8594-263b35282aba.png)
 
 
