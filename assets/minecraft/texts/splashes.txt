@@ -15,3 +15,4 @@ someone pin that
 You'd think that with the relatively smaller amount of polygons in a single-scene that have been decided to be rendered/visible, that they could be shaded somewhat decently and not destroy performance, but it does. Which was a question I was going to ask, but it seemed to have been answered, that it is just not optimized.
 here's what i have been spending my usual excessive amount of time typing: 
 im really surprised chocs sspt is so slow; i thought my ssgi which is doing mostly the same thing was slow until i tried chocs and i found out mine is actually several times faster than chocs while often looking way less noisy even at lower sample counts, although that's probably just my taa being more aggressive. usually i end up wondering how choc's version of an effect could be so much faster than my version.
+Das ist gut
