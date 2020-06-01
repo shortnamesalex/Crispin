@@ -44,7 +44,9 @@ Paint.net was used to make this pack.
 
 Normal maps were generated through Bounding Box Software's Materalize tool.
 
-Custom music discs:
+Custom music:
+
+- C418 - Key used on C418 - Mutation
 
 - Downtown Binary - Midnight Tokyo used on music disc Mall.
 
