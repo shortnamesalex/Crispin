@@ -46,7 +46,7 @@ Normal maps were generated through Bounding Box Software's Materalize tool.
 
 Custom music:
 
-- C418 - Key used on C418 - Mutation
+- C418 - Ki used on C418 - Mutation
 
 - Downtown Binary - Midnight Tokyo used on music disc Mall.
 
