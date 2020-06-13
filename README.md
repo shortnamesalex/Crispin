@@ -20,7 +20,7 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 - Custom music disc music. (all of them are not copyrighted btw)
 
-**Shader recommended:**
+**Shader recommended:** (only works on nvidia and amd cards)
 
 - Rutherin's Raspberry Shaders
 
@@ -28,7 +28,7 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 **Other shaders recommended:**
 
-(raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
+(here are some alternatives if raspberry doesnt work on your gpu for whatever reason.)
 
 - Capt Tatsu's BSL Shaders: https://bitslablab.com/
 
