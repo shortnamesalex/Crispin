@@ -30,7 +30,7 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 (raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
 
-- Capt Tatsu's BSL Shaders:https://bitslablab.com/
+- Capt Tatsu's BSL Shaders: https://bitslablab.com/
 
 - Sildur's Vibrant Shaders: https://sildurs-shaders.github.io/
 
