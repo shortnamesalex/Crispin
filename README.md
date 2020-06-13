@@ -70,4 +70,8 @@ Raspberry:
 Melon:
 ![2020-06-12_08 18 32](https://user-images.githubusercontent.com/63942150/84557410-24d53780-ad55-11ea-9d2e-8a7a0d89a0ac.png)
 ![2020-06-12_17 19 05](https://user-images.githubusercontent.com/63942150/84557420-33bbea00-ad55-11ea-8c7e-5fda56a163c6.png)
+![2020-06-13_10 06 16](https://user-images.githubusercontent.com/63942150/84558620-759d5e00-ad5e-11ea-9cdb-d3b92503f067.png)
+![2020-06-13_10 06 44](https://user-images.githubusercontent.com/63942150/84558654-ae3d3780-ad5e-11ea-841f-0ac6f453f5b4.png)
+![2020-06-13_10 08 49](https://user-images.githubusercontent.com/63942150/84558666-ca40d900-ad5e-11ea-8c1a-65436163d938.png)
+![2020-06-13_10 12 30](https://user-images.githubusercontent.com/63942150/84558706-f8261d80-ad5e-11ea-996f-8c1dc4b886c2.png)
 
