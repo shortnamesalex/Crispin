@@ -20,7 +20,7 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 - Custom music disc music. (all of them are not copyrighted btw)
 
-**Shader recommended:**
+**Shader recommended:** (only works on nvidia and amd cards)
 
 - Rutherin's Raspberry Shaders
 
@@ -28,15 +28,17 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 **Other shaders recommended:**
 
-(raspberry for now only runs on nvidia cards so here are some alternatives if raspberry doesnt work.)
+(here are some alternatives if raspberry doesnt work on your gpu for whatever reason.)
 
-- Capt Tatsu's BSL Shaders
+- Capt Tatsu's BSL Shaders: https://bitslablab.com/
 
-- Sildur's Vibrant Shaders
+- Sildur's Vibrant Shaders: https://sildurs-shaders.github.io/
 
-- RRe36's Nostalgia Shader
+- RRe36's Nostalgia Shader: https://rre36.github.io/nostalgia_shader_web/
 
-- RRe36's VPlus Shader
+- RRe36's VPlus Shader: https://rre36.github.io/vplus_web/
+
+- June's (or Josh's) Melon Shader: https://github.com/TheJSHuA/MelonShaders
 
 **Thanks:**
 
@@ -57,6 +59,7 @@ Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spir
 This pack wouldn't have been where it is now without all of you~
 
 **Some screenshots to hopefully set off a good impression:**
+Raspberry:
 ![2020-05-23_19 41 54](https://user-images.githubusercontent.com/63942150/82746187-2e532b80-9db7-11ea-94b4-c3c131fb2eea.png)
 ![2020-05-23_22 17 29](https://user-images.githubusercontent.com/63942150/82862149-23c89b80-9f49-11ea-94a3-918e090ce8ad.png)
 ![2020-05-23_21 43 50](https://user-images.githubusercontent.com/63942150/82862197-435fc400-9f49-11ea-84f5-8cae93c0c12d.png)
@@ -64,4 +67,11 @@ This pack wouldn't have been where it is now without all of you~
 ![2020-05-23_20 53 34](https://user-images.githubusercontent.com/63942150/82862592-43ac8f00-9f4a-11ea-8b11-5d6d15a01cd4.png)
 ![2020-05-23_19 30 11](https://user-images.githubusercontent.com/63942150/82862597-45765280-9f4a-11ea-8594-263b35282aba.png)
 
+Melon:
+![2020-06-12_08 18 32](https://user-images.githubusercontent.com/63942150/84557410-24d53780-ad55-11ea-9d2e-8a7a0d89a0ac.png)
+![2020-06-12_17 19 05](https://user-images.githubusercontent.com/63942150/84557420-33bbea00-ad55-11ea-8c7e-5fda56a163c6.png)
+![2020-06-13_10 06 16](https://user-images.githubusercontent.com/63942150/84558620-759d5e00-ad5e-11ea-9cdb-d3b92503f067.png)
+![2020-06-13_10 06 44](https://user-images.githubusercontent.com/63942150/84558654-ae3d3780-ad5e-11ea-841f-0ac6f453f5b4.png)
+![2020-06-13_10 08 49](https://user-images.githubusercontent.com/63942150/84558666-ca40d900-ad5e-11ea-8c1a-65436163d938.png)
+![2020-06-13_10 12 30](https://user-images.githubusercontent.com/63942150/84558706-f8261d80-ad5e-11ea-996f-8c1dc4b886c2.png)
 
