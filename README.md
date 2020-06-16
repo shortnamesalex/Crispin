@@ -68,8 +68,8 @@ Raspberry:
 ![2020-05-23_19 30 11](https://user-images.githubusercontent.com/63942150/82862597-45765280-9f4a-11ea-8594-263b35282aba.png)
 
 Melon:
-![2020-06-12_08 18 32](https://user-images.githubusercontent.com/63942150/84557410-24d53780-ad55-11ea-9d2e-8a7a0d89a0ac.png)
-![2020-06-12_17 19 05](https://user-images.githubusercontent.com/63942150/84557420-33bbea00-ad55-11ea-8c7e-5fda56a163c6.png)
+![2020-06-14_09 20 25](https://user-images.githubusercontent.com/63942150/84583203-74346a00-ae20-11ea-8c6a-93960b2af4cd.png)
+![2020-06-14_09 18 48](https://user-images.githubusercontent.com/63942150/84583228-99c17380-ae20-11ea-97f2-105a3327dd52.png)
 ![2020-06-13_10 06 16](https://user-images.githubusercontent.com/63942150/84558620-759d5e00-ad5e-11ea-9cdb-d3b92503f067.png)
 ![2020-06-13_10 06 44](https://user-images.githubusercontent.com/63942150/84558654-ae3d3780-ad5e-11ea-841f-0ac6f453f5b4.png)
 ![2020-06-13_10 08 49](https://user-images.githubusercontent.com/63942150/84558666-ca40d900-ad5e-11ea-8c1a-65436163d938.png)
