@@ -58,6 +58,12 @@ Custom music:
 
 Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spirit, Chloe and Hush in Barazoku for giving me the energy and confidence to keep working on this pack.
 
+Honourable mentions go to C418, his music is godlike.
+
+Support him through: https://c418.bandcamp.com/album/excursions
+
+https://c418.bandcamp.com/album/minecraft-volume-beta
+
 This pack wouldn't have been where it is now without all of you~
 
 **Some screenshots to hopefully set off a good impression:**
