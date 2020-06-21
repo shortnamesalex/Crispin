@@ -66,6 +66,8 @@ https://c418.bandcamp.com/album/minecraft-volume-beta
 
 This pack wouldn't have been where it is now without all of you~
 
+My curseforge: https://www.curseforge.com/minecraft/texture-packs/crispin
+
 **Some screenshots to hopefully set off a good impression:**
 Raspberry:
 ![2020-05-23_19 41 54](https://user-images.githubusercontent.com/63942150/82746187-2e532b80-9db7-11ea-94b4-c3c131fb2eea.png)
