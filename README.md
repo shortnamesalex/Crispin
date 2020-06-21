@@ -1,4 +1,4 @@
-![96IiZXM](https://user-images.githubusercontent.com/63942150/82401664-94bd0e80-9a84-11ea-8013-8c85a17135a0.png)
+![2020-06-21_18 21 51 - Copy](https://user-images.githubusercontent.com/63942150/85223606-4f2a9300-b3ee-11ea-86a9-8c41ece115d2.png)
 
 **DO NOT REDISTRIBUTE THIS PACK WITHOUT MY PERMISSION.**
 
