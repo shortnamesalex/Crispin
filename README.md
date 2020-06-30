@@ -39,7 +39,9 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 - RRe36's VPlus Shader: https://rre36.github.io/vplus_web/
 
-- June's (or Josh's) Melon Shader: https://github.com/TheJSHuA/MelonShaders
+- June's Melon Shader: https://github.com/TheJSHuA/MelonShaders
+
+- RRe36's Simplicissimus Shader: https://rre36.github.io/glProjectsWeb/2020-05-18-simpl_1.2/
 
 **Thanks:**
 
