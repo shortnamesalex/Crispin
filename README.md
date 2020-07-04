@@ -47,7 +47,11 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 Paint.net was used to make this pack.
 
-Normal maps were generated through Bounding Box Software's Materalize tool.
+Normal maps were generated through Bounding Box Software's Materalize tool: https://www.gamefromscratch.com/post/2018/10/16/Materialize-Free-Texture-Map-Generation-Tool-Released.aspx
+
+Panorama was made with Runorama: https://www.curseforge.com/minecraft/mc-mods/runorama
+
+Big thanks goes to Flat Jim on the Barazoku server for showing me how to do normals correctly on the Materalize tool and introduce me to the Runorama mod.
 
 Custom music:
 
