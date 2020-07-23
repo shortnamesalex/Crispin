@@ -1,61 +1,48 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "block/grass",
-		"particle": "block/grass"
-	},
-	"elements": [
-		{
-			"from": [1, 0, 2],
-			"to": [1, 14, 18],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [9, 8, 10]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"}
-			}
-		},
-		{
-			"from": [5, 0, 8],
-			"to": [5, 14, 24],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [13, 8, 16]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"}
-			}
-		},
-		{
-			"from": [-5, 0, 3],
-			"to": [11, 14, 3],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [3, 8, 11]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [-11, 0, 9],
-			"to": [5, 14, 9],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [-3, 8, 17]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 14], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 14], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
-			}
-		}
-	]
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/grass"
+    },
+    "elements": [
+        {
+            "from": [ 0.0, 0.0, 5.0 ], 
+            "to": [ 16.0, 16.0, 5.0 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "faces": {
+                "north": { "texture": "#particle", "uv": [ 0, 0, 0, 14 ] , "tintindex": 0 },
+                "south": { "texture": "#particle", "uv": [ 0, 0, 16, 16 ] , "tintindex": 0 }
+            }
+        },
+        {
+            "from": [ 5.0, 0.0, 0.0 ], 
+            "to": [ 5.0, 16.0, 16.0 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "faces": {
+                "east": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 },
+                "west": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 }
+            }
+        },
+        {
+            "from": [ 11.0, 0.0, 0.0 ], 
+            "to": [ 11.0, 16.0, 16.0 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "faces": {
+                "east": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 },
+                "west": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 }
+            }
+        },
+        {
+            "from": [ 0.0, 0.0, 11.0 ], 
+            "to": [ 16.0, 16.0, 11.0 ], 
+            "shade": false,
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "faces": {
+                "north": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 },
+                "south": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 }
+            }
+        }
+    ]
 }
