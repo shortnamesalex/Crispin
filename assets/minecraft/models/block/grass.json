@@ -8,17 +8,17 @@
             "from": [ 0.0, 0.0, 5.0 ], 
             "to": [ 16.0, 16.0, 5.0 ], 
             "shade": false,
-            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 22.5, "rescale": true },
             "faces": {
-                "north": { "texture": "#particle", "uv": [ 0, 0, 0, 14 ] , "tintindex": 0 },
-                "south": { "texture": "#particle", "uv": [ 0, 0, 16, 16 ] , "tintindex": 0 }
+                "north": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 },
+                "south": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 }
             }
         },
         {
             "from": [ 5.0, 0.0, 0.0 ], 
             "to": [ 5.0, 16.0, 16.0 ], 
             "shade": false,
-            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 22.5, "rescale": true },
             "faces": {
                 "east": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 },
                 "west": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 }
@@ -28,7 +28,7 @@
             "from": [ 11.0, 0.0, 0.0 ], 
             "to": [ 11.0, 16.0, 16.0 ], 
             "shade": false,
-            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 22.5, "rescale": true },
             "faces": {
                 "east": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 },
                 "west": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] , "tintindex": 0 }
@@ -38,7 +38,7 @@
             "from": [ 0.0, 0.0, 11.0 ], 
             "to": [ 16.0, 16.0, 11.0 ], 
             "shade": false,
-            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 0.0, "rescale": true },
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 22.5, "rescale": true },
             "faces": {
                 "north": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 },
                 "south": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] , "tintindex": 0 }
