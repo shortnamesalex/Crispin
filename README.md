@@ -14,7 +14,7 @@ Crispin was made with a couple of ideas in mind, a resource pack made to look go
 
 - Uses as many special Optifine features as possible.
 
-- labPBR support (specular maps, normal maps, etc).
+- raspPBR support.
 
 - Custom music disc music. (all of them are not copyrighted btw)
 
