@@ -1,4 +1,4 @@
-![2020-06-21_18 21 51 - Copy (2)](https://user-images.githubusercontent.com/63942150/85224023-8ea6ae80-b3f1-11ea-9056-c573c4305d40.png)
+![2020-07-27_09 49 39 - Copy](https://user-images.githubusercontent.com/63942150/88501851-dcb56000-cff6-11ea-99f1-264f11ba0b89.png)
 
 Hi. shortnamesalex here.
 
