@@ -1,4 +1,4 @@
-![2020-07-27_09 49 39 - Copy](https://user-images.githubusercontent.com/63942150/88501851-dcb56000-cff6-11ea-99f1-264f11ba0b89.png)
+
 
 Hi. shortnamesalex here.
 
