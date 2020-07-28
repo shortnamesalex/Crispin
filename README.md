@@ -1,4 +1,4 @@
-![2020-06-21_18 21 51 - Copy (2)](https://user-images.githubusercontent.com/63942150/85224023-8ea6ae80-b3f1-11ea-9056-c573c4305d40.png)
+![banner](https://user-images.githubusercontent.com/63942150/88502023-7715a380-cff7-11ea-8636-6af4a6f8e101.png)
 
 Hi. shortnamesalex here.
 
@@ -60,7 +60,7 @@ Custom music:
 
 - C418 - Leak used on music disc Cat.
 
-Big thanks and hugs to: qweebo, rutherin, Snurf, xirreal, dakine, Prismatic Spirit, Chloe and Hush in Barazoku for giving me the energy and confidence to keep working on this pack.
+Big thanks and hugs to: qweebo, June, rutherin, Snurf, xirreal, dakine, Prismatic Spirit, Chloe and Hush in Barazoku for giving me the energy and confidence to keep working on this pack.
 
 Honourable mentions go to C418, his music is godlike.
 
